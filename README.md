@@ -2,8 +2,6 @@
 
 **Empowering software delivery through seamless DevOps pipelines**
 
----
-
 ### 🚀 About Me
 DevOps & Cloud Engineer with hands-on expertise in:
 **- AWS ☁️Terraform 🧱Docker 🐳Kubernetes ☸️ Jenkins ⚙️ Harness GitHub Actions 🚀Linux 🐧**
