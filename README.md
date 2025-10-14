@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 DevOps & Cloud Engineer with hands-on expertise in:
-- **AWS ☁️** **Terraform 🧱**Docker 🐳** **Kubernetes ☸️** **Jenkins ⚙️****Harness** **GitHub Actions 🚀** **Linux 🐧**
+**- AWS ☁️Terraform 🧱Docker 🐳Kubernetes ☸️ Jenkins ⚙️Harness GitHub Actions 🚀Linux 🐧**
 
 ### 🛠️ Favorite Projects
 - **CI/CD Automation**
