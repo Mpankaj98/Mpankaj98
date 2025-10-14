@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Pankaj Modak
+### 👋 Hello World! I'm Pankaj Modak, DevOps Engineer passionate about Cloud, Automation & Scalability.
+
+I enjoy architecting cloud-native solutions and streamlining delivery pipelines using tools like:
+☁️ AWS | 🧱 Terraform | 🐳 Docker | ☸️ Kubernetes | ⚙️ Jenkins | Harness | 🚀 Git | 🐧 Linux
+
+Let’s automate the future together — because great ideas deserve fast, reliable delivery! ⚡
 
 **Empowering software delivery through seamless DevOps pipelines**
-
-### 🚀 About Me
-DevOps & Cloud Engineer with hands-on expertise in:
-**- AWS ☁️Terraform 🧱Docker 🐳Kubernetes ☸️ Jenkins ⚙️ Harness Git 🚀Linux 🐧**
 
 ### 🛠️ Favorite Projects
 - **CI/CD Automation**
