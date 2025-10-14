@@ -6,8 +6,7 @@
 
 ### 🚀 About Me
 DevOps & Cloud Engineer with hands-on expertise in:
-- **AWS ☁️**
-- **Terraform 🧱**
+- **AWS ☁️** **Terraform 🧱**
 - **Docker 🐳**
 - **Kubernetes ☸️**
 - **Jenkins ⚙️**
