@@ -17,8 +17,9 @@ Tech innovation, open source, cloud architecture, automation, and dashboarding.
 
 ### 🔗 Connect with Me
 
-Email : pankajmember99@gmail.com
-LinkedIn : https://www.linkedin.com/in/pankaj-modak-57a936365/
+<a Email : pankajmember99@gmail.com>
+</br>
+LinkedIn : https://www.linkedin.com/in/pankaj-modak-57a936365/</a>
 
 <a href="https://www.linkedin.com/in/pankaj-modak-57a936365/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" width="70" height="40"/>
