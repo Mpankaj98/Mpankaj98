@@ -1,5 +1,7 @@
 ### 👋 Hello World! I'm Pankaj Modak, DevOps Engineer passionate about Cloud, Automation & Scalability.
 
+AWS Certified Solutions Architect – Associate | DevOps Engineer specializing in AWS, Kubernetes, Docker, Terraform, Jenkins, and CI/CD automation. Passionate about building scalable cloud infrastructure, automating deployments, improving reliability, and adopting cloud-native and DevSecOps best practices.
+
 I enjoy architecting cloud-native solutions and streamlining delivery pipelines using tools like:
 ☁️ AWS | 🧱 Terraform | 🐳 Docker | ☸️ Kubernetes | ⚙️ Jenkins | Harness | 🚀 Git | 🐧 Linux
 
